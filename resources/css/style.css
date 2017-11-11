@@ -12,9 +12,12 @@ h2 {font-weight: 300;
     text-align: center;
     color: white;}
 
+p {color: gray;
+  font-size: 21px;}
+
 .soon {color: aquamarine;
        font-size: 16px;
        text-align: center;}
 
 .copyright {text-align: right;
-            font-color: gray;}
+            color: gray;}
